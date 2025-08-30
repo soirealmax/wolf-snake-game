@@ -1,4 +1,4 @@
-# 🐍 Wolf Snake Game
+# 🐍 Snake Game
 
 Wolf Snake Game is a modern remake of the classic Snake game.  
 The player controls a snake that moves around the screen, eats food to grow longer, and earns points.  
