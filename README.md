@@ -1,6 +1,6 @@
 # 🐍 Snake Game
 
-Wolf Snake Game is a modern remake of the classic Snake game.  
+Snake Game is a modern remake of the classic Snake game.  
 The player controls a snake that moves around the screen, eats food to grow longer, and earns points.  
 As the snake grows, the speed increases, making the game more challenging.
 
